@@ -1,7 +1,7 @@
 {
-  "name": "partnerproject",
+  "name": "ریکلام بنێرە بۆ من",
   "version": "1.0.0",
-  "description": "",
+  "description": "ریکلام چەتە",
   "main": "index.js",
   "dependencies": {
     "canvas": "^2.6.1",
